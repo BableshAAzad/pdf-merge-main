@@ -1,5 +1,5 @@
 # pdf-merge
-App URL: https://github.com/BableshAAzad/pdf-merge-main/ 
+App URL: https://github.com/BableshAAzad/pdf-merge-main
 
 <br>
 

@@ -1,7 +1,7 @@
-# pdf-merge
+# Pdf-merge Using JS, HTML and CSS
 App URL: https://github.com/BableshAAzad/pdf-merge-main
 
-This project is make using javaScript, Html and css only. download and directaly run in your webpage...
+This project, built with JavaScript, HTML, and CSS, allows you to easily merge multiple PDF files and download them with a single click, directly from your webpage.
 
 <br>
 
